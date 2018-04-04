@@ -1,6 +1,24 @@
-
 .titulo{
-    border:blueviolet ;
-    color: red;
-    width: 50%;
+    text-align: center;
+  padding: 30px 10px;
+  border: PowderBlue 5px solid;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 20px;
+  color:blueviolet;
+  margin: 50px 50px;
+  font-size: 500%;
 }
+
+.forma{
+    text-align: center;
+  padding: 20px 10px;
+  border: PowderBlue 5px solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  color:blueviolet;
+  margin: 50px 50px;
+  font-size: 100%;
+}
+
+
+

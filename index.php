@@ -12,12 +12,17 @@ and open the template in the editor.
     </head>
     <body>
         <p class = "titulo">
-            Login
+            Login Universidad Distrital
         </p>
-        <form action="procesador.php">
-            <input type="text" name="usuario">
-            <input type="password" name="clave">
-            <input type="submit" name="ingresar">     
+     <form action="procesador.php">
+            <p class =" forma">
+            <input type="text" name="usuario"><br>
+            <br>
+            <input type="password" name="clave"><br>
+            <br>
+            <input type="submit" name="ingresar"><br> 
+            <br>
+            </p>
         </form>
     </body>
 </html>
