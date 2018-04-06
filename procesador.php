@@ -16,9 +16,7 @@ $cadena = "SELECT usuario, clave FROM usuario";
             echo "Le recordamos sus datos: "
             echo "<br>usuario: ".$registro["nombre"];
             echo "<br>clave: ".$registro["clave"];
-        }
-        else
-        {
+        }else{
             echo"Usuario o contraseña incorrecta";
             echo"<br>Intente de nuevo";
         }
